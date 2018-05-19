@@ -1,1 +1,1 @@
-# exploratory is a place for little coding ventures
+# exploratory is for coding ventures

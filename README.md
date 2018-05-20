@@ -1,13 +1,13 @@
-# exploratory coding ventures & exercises
+# exploratory coding ventures
 
 
-1. **Kona Grill Menu - an HTML parsing**  
-   browse the menu scraped live from the restaurant's website  
+1. **Kona Grill Menu - an HTML parsing exercise**  
+   interactively browse the dinner menu scraped live from the restaurant's website  
    `script: 4fun_html_KONA.py`  
    `website:` [Kona Grill Dinner Menu](http://www.konagrill.com/menu/dinner)
 
 2. **Are college towns in a bubble?**  
-   explores the hypothesis that university towns' housing prices are less affected than other towns by recession  
+   explores the hypothesis that university towns' housing prices are less affected by recession than other towns  
    `script: university_town_housing.py`  
    `data: `  
    * `gdplev.xls`  from [Bureau of Economic Analysis](https://www.bea.gov/national/index.htm#gdp)  

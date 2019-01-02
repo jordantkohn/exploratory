@@ -6,7 +6,7 @@
    `script: 4fun_html_KONA.py`  
    `website:` [Kona Grill Dinner Menu](http://www.konagrill.com/menu/dinner)
 
-2. **College Towns  - my first data science project**   
+2. **College Towns  - a data analysis and statistical inference project**   
    compares housing price trends in college towns against non-college towns
 
 
